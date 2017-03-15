@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="HW3" />
+    <orderEntry type="module" module-name="example3" />
+    <orderEntry type="module" module-name="example4" />
+    <orderEntry type="module" module-name="examples5" />
+    <orderEntry type="module" module-name="testingProject" />
+    <orderEntry type="module" module-name="HW4" />
+    <orderEntry type="module" module-name="untitled2" />
+    <orderEntry type="module" module-name="HW1" />
+    <orderEntry type="module" module-name="HW2" />
+  </component>
+</module>
